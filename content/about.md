@@ -11,7 +11,7 @@ Potrei raccontarti tutto il mio percorso e dirti che ho iniziato nel lontano ...
 
 Al pari di "Google" ribattezzata come "Hooli" nella nota serie tv "Silicon Valley"
 
-{{< image src="https://i1.wp.com/retireinprogress.com/wp-content/uploads/2016/07/hooli.jpg?resize=300%2C225&ssl=1" alt="hooli" position="center" style="border-radius: 8px;" >}}
+{{< image src="https://res.cloudinary.com/dpqacaek0/image/upload/v1628253730/crasheth/hooli_qqmvhy.jpg" alt="hooli" position="center" style="border-radius: 8px;" >}}
 
 la mia azienda verrà battezzata semplicemente come "TRACECUNE"
 
