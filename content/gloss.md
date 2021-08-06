@@ -8,4 +8,5 @@ aliases = ["glossary"]
 
 Qui verrà un semplice glossario!
 
+<div>Short Description of {{.Site.Data.List.Glossary}}</div>
 
