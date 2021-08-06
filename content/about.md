@@ -13,7 +13,7 @@ Al pari di "Google" ribattezzata come "Hooli" nella nota serie tv "Silicon Valle
 
 {{< image src="https://i1.wp.com/retireinprogress.com/wp-content/uploads/2016/07/hooli.jpg?resize=300%2C225&ssl=1" alt="hooli" position="center" style="border-radius: 8px;" >}}
 
-la mia azienda verrà battezzata semplicemente come ""
+la mia azienda verrà battezzata semplicemente come "TRACECUNE"
 
 Non sapevo molto della sicurezza informatica,come e cosa fosse un SIEM o come si svolgesse una giornata lavorativa in un SOC (tutti termini che poi pian piano vedremo).
 
