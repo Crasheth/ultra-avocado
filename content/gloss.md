@@ -7,6 +7,7 @@ aliases = ["glossary"]
 +++
 
 Qui verrà un semplice glossario!
+
 <ul>
 {{ range .glossary }}
   <li>{{ . }}</li>
