@@ -8,4 +8,4 @@ aliases = ["glossary"]
 
 Qui verrà un semplice glossario!
 
-<div>Short Description of {{.Site.Data.glossary}}: <p>{{ index .Site.Data.grlossary "Glossary" | markdownify }}</p></div>
+<div>Short Description of {{.Site.Data.glossary}}: <p>{{ index .Site.Data.glossary "Glossary" | markdownify }}</p></div>
