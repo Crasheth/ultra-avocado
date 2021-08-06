@@ -120,4 +120,4 @@ url = "posts/"
 [[menu.main]]
 identifier = "glossary"
 name = "Glossario"
-url = "gloss/"
+url = "glossario/"
