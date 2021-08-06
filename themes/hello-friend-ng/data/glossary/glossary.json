@@ -1,0 +1,9 @@
+
+{
+"Glossary": [
+  "SOC : Security Operation Center: è un centro da cui vengono forniti servizi finalizzati alla sicurezza dei sistemi informativi dell'azienda stessa (SOC interno) o di clienti esterni",
+  "SIEM : (security information and event management) ci si riferisce ad una serie di prodotti software e servizi che combinano e integrano le funzionalità offerte dai SIM (security information management) a quelle dei SEM (security event management)",
+  "AKA : also known as – espressione inglese che significa:anche conosciuto come.",
+  "IDS : Intrusion Detection System è un dispositivo software o hardware (o a volte la combinazione di entrambi, sotto forma di sistemi stand-alone pre-installati e pre-configurati) utilizzato per identificare accessi non autorizzati ai computer o alle reti locali. Le intrusioni rilevate possono essere quelle prodotte da cracker esperti, da tool automatici o da utenti inesperti che utilizzano programmi semiautomatici",
+ ]}
+ 
