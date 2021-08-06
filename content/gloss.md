@@ -7,5 +7,3 @@ aliases = ["glossary"]
 +++
 
 Qui verrà un semplice glossario!
-
-<div>Acronimo {{$.Site.Data.glossary.list.Acronimo}}</p></div>
