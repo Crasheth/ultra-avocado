@@ -8,7 +8,6 @@ aliases = ["glossary"]
 
 Qui verrà un semplice glossario!
 
-
 {{< table >}}
 | Disk 0 | Disk 1 | Disk 2 | Disk 3 |
 |:------:|:------:|:------:|:-------:|
