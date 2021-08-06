@@ -11,7 +11,7 @@ Potrei raccontarti tutto il mio percorso e dirti che ho iniziato nel lontano ...
 
 Al pari di "Google" ribattezzata come "Hooli" nella nota serie tv "Silicon Valley"
 
-
+{{< image src="/img/hello.png" alt="Hello Friend" position="center" style="border-radius: 8px;" >}}
 
 la mia azienda verrà battezzata semplicemente come ""
 
