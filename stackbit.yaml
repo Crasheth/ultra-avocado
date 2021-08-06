@@ -8,6 +8,7 @@ assets:
   staticDir: static
   uploadDir: assets
   publicPath: /
+cmsName: git
 models:
   lang_flags:
     type: data
