@@ -1,5 +1,5 @@
 baseURL = ""
-title = "Hello Friend NG"
+title = "Inside Malware"
 languageCode = "en-us"
 theme = "hello-friend-ng"
 PygmentsCodeFences = true
