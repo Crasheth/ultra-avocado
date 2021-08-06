@@ -7,11 +7,3 @@ aliases = ["glossary"]
 +++
 
 Qui verrà un semplice glossario!
-
-{{ range .Site.Data.list }}
-  <li>
-    <input class="material-icons" type="checkbox" />
-    <label>{{ .country }}</label>
-    </input>
-  </li>
-{{ end }}
