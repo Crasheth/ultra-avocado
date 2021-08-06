@@ -5,3 +5,5 @@ aliases = ["glossary"]
 [ author ]
   name = "Hugo Authors"
 +++
+
+Qui verrà un semplice glossario!
