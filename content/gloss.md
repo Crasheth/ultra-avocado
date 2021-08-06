@@ -8,7 +8,7 @@ aliases = ["glossary"]
 
 Qui verrà un semplice glossario!
 
-{.table}
+
 | Disk 0 | Disk 1 | Disk 2 | Disk 3 |
 |:------:|:------:|:------:|:-------:|
 |   A1   |   A2   |   A3   | Ap(1-3) |
