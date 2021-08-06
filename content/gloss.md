@@ -10,3 +10,5 @@ Qui verrà un semplice glossario!
 
 
 {{ $dataJ := getJSON "https://tools.learningcontainer.com/sample-json-file.json" }}
+
+{{ $data := getJSON "https://example.org/api" (dict "Authorization" "Bearer abcd")  }}
