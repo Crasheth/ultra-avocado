@@ -12,4 +12,4 @@ Qui verrà un semplice glossario!
   
 {{ end }}
 
-<p>{{ index .Site.Data.glossary "Short Description" | markdownify }}</p>
+<p>{{ index .Site.Data.glossary.list "Glossary" | markdownify }}</p>
