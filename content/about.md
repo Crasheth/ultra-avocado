@@ -6,9 +6,7 @@ aliases = ["about-us","about-hugo","contact"]
   name = "Hugo Authors"
 +++
 
-{{< image src="https://res.cloudinary.com/dpqacaek0/image/upload/v1628255522/crasheth/IMG_20210106_143643_gtp7lb.png" alt="Hello Friend" position="Left" style="border-radius: 10px; width:30%" >}}
-
-Potrei raccontarti tutto il mio percorso e dirti che ho iniziato nel lontano ... ma non sarebbe la verità! Sappi che per una serie di motivi nel 2019 fui contattato tramite Linkedin per effettuare un colloquio di lavoro nel ramo della Sicurezza Informatica.
+{{< image src="https://res.cloudinary.com/dpqacaek0/image/upload/v1628255522/crasheth/IMG_20210106_143643_gtp7lb.png" alt="Hello Friend" position="Left" style="border-radius: 10px; width:30%" >}}Potrei raccontarti tutto il mio percorso e dirti che ho iniziato nel lontano ... ma non sarebbe la verità! Sappi che per una serie di motivi nel 2019 fui contattato tramite Linkedin per effettuare un colloquio di lavoro nel ramo della Sicurezza Informatica.
 
 Al pari di "Google" ribattezzata come "Hooli" nella nota serie tv "Silicon Valley"
 
