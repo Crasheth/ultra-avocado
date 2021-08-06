@@ -8,4 +8,5 @@
   "IPS" : "Intrusion prevention systems (conosciuti anche come intrusion detection and prevention systems (IDPS)), sono dei componenti software attivi sviluppati per incrementare la sicurezza informatica di un sistema informatico, individuando, registrando le informazioni relative e tentando di segnalare e bloccare le attività dannose.",
   "INCIDENT RESPONSE" : "L’incident response è un processo strutturato che le organizzazioni utilizzano per identificare e gestire gli incidenti di sicurezza informatica.",
   "IOC" : "Indicatore di Compromissione (dall'inglese Indicator of compromise) abbreviato con IOC è, nella informatica forense, un artefatto osservato in una rete o all'interno di un sistema che con un'alta probabilità è correlabile, o indica, un'intrusione"
-]}
+]
+}
