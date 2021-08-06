@@ -13,8 +13,7 @@ Al pari di "Google" ribattezzata come "Hooli" nella nota serie tv "Silicon Valle
 
 small image Immagine di dribble.com
 
-la mia azienda verrà battezzata semplicemente come "Alderson Consulting" (Citazione mr.robot, solo per un motivo ma nessuna correlazione- non è difficile da capire!).
-Alderson Consulting
+la mia azienda verrà battezzata semplicemente come ""
 
 Non sapevo molto della sicurezza informatica,come e cosa fosse un SIEM o come si svolgesse una giornata lavorativa in un SOC (tutti termini che poi pian piano vedremo).
 
