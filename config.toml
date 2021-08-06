@@ -1,6 +1,6 @@
 baseURL = ""
 title = "Inside Malware"
-languageCode = "it-IT"
+languageCode = "en-US"
 theme = "hello-friend-ng"
 PygmentsCodeFences = true
 PygmentsStyle = "monokai"
