@@ -30,7 +30,7 @@ themesDir = "themes"
 posts = "/posts/:year/:month/:title/"
 
 [author]
-name = "Jane Doe"
+name = "Crasheth"
 
 [blackfriday]
 hrefTargetBlank = true
