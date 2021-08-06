@@ -17,7 +17,6 @@ Qui verrà un semplice glossario!
       </tr>
     </thead>
     <tbody>
-   
       <tr>
         <td>{{ index $r 0 }}</td>
         <td>{{ index $r 1 }}</td>
