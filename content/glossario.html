@@ -1,5 +1,7 @@
-<ul>
-{{ range .glossary }}
-  <li>{{ . }}</li>
+{{ range .Site.Data.countries.continent.africa.country }}
+  <li>
+    <input class="material-icons" type="checkbox" />
+    <label>{{ .name }}</label>
+    </input>
+  </li>
 {{ end }}
-</ul>
