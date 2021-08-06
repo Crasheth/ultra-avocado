@@ -1,0 +1,70 @@
+stackbitVersion: ~0.3.0
+ssgName: hugo
+publishDir: public
+dataDir: data
+pagesDir: content
+assets:
+  referenceType: static
+  staticDir: static
+  uploadDir: assets
+  publicPath: /
+models:
+  lang_flags:
+    type: data
+    label: Lang Flags
+    file: langFlags.yaml
+    fields:
+      - type: string
+        name: de
+        label: De
+      - type: string
+        name: en
+        label: En
+      - type: string
+        name: es
+        label: Es
+      - type: string
+        name: fr
+        label: Fr
+      - type: string
+        name: gl
+        label: Gl
+      - type: string
+        name: hi
+        label: Hi
+      - type: string
+        name: it
+        label: It
+      - type: string
+        name: ja
+        label: Ja
+      - type: string
+        name: ml
+        label: Ml
+      - type: string
+        name: nl
+        label: Nl
+      - type: string
+        name: pt-br
+        label: Pt Br
+      - type: string
+        name: ru
+        label: Ru
+      - type: string
+        name: tr
+        label: Tr
+      - type: string
+        name: uk
+        label: Uk
+      - type: string
+        name: zh-cn
+        label: Zh Cn
+      - type: string
+        name: zh-hk
+        label: Zh Hk
+      - type: string
+        name: zh-tw
+        label: Zh Tw
+      - type: string
+        name: ro
+        label: Ro
