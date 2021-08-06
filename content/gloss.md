@@ -7,3 +7,11 @@ aliases = ["glossary"]
 +++
 
 Qui verrà un semplice glossario!
+
+{{ range $.Site.Data.glossary.glossary }}
+   <ul>
+{{ range .glossary }}
+  <li>{{ . }}</li>
+{{ end }}
+</ul>
+{{ end }}
