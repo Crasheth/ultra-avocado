@@ -22,6 +22,6 @@ Qui verrà un semplice glossario!
         <td>{{ index $r 1 }}</td>
         <td>{{ index $r 2 }}</td>
       </tr>
-    {{ end }}
+    
     </tbody>
   </table>
