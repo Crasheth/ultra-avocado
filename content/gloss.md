@@ -8,6 +8,4 @@ aliases = ["glossary"]
 
 Qui verrà un semplice glossario!
 
-{{ range $.Site.Data.jazz.bass }}
-   {{ partial "glossary.html" . }}
-{{ end }}
+<div>Short Description of {{.Site.Data.glossary}}: <p>{{ index .Site.Data.User0123 "Short Description" | markdownify }}</p></div>
