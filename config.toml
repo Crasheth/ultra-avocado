@@ -116,3 +116,8 @@ url = "about/"
 identifier = "posts"
 name = "Articoli"
 url = "posts/"
+
+[[menu.main]]
+identifier = "glossary"
+name = "Glossario"
+url = "gloss/"
