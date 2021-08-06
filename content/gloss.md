@@ -9,7 +9,7 @@ aliases = ["glossary"]
 Qui verrà un semplice glossario!
 
 
-| Acronimo | Descrizione | Disk 2 | Disk 3 |
+| Acronimo | Descrizione | 
 |:------:|:------:|:------:|:-------:|
 |   A1   |   A2   |   A3   | Ap(1-3) |
 |   A4   |   A5   |   A6   | Ap(4-6) |
