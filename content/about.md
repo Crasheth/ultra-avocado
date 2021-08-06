@@ -15,6 +15,8 @@ Al pari di "Google" ribattezzata come "Hooli" nella nota serie tv "Silicon Valle
 
 la mia azienda verrà battezzata semplicemente come "TRACECUNE"
 
+
+
 Non sapevo molto della sicurezza informatica,come e cosa fosse un SIEM o come si svolgesse una giornata lavorativa in un SOC (tutti termini che poi pian piano vedremo).
 
 Sapevo solo che in una fase della vita, al posto di far vincere la depressione per il risvolto che aveva preso insieme al mio lavoro, mi sono iscritto a corsi GRATUITI, MOOC, dall'ethical hacking a corsi base di python, c e c++.
