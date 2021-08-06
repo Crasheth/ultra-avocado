@@ -17,9 +17,7 @@ Qui verrà un semplice glossario!
       </tr>
     </thead>
     <tbody>
-    {{ $url := "https://example.com/finance/employee-salaries.csv" }}
-    {{ $sep := "," }}
-    {{ range $i, $r := getCSV $sep $url }}
+   
       <tr>
         <td>{{ index $r 0 }}</td>
         <td>{{ index $r 1 }}</td>
