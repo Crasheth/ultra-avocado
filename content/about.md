@@ -21,7 +21,7 @@ Sapevo solo che in una fase della vita, al posto di far vincere la depressione p
 
 Provenivo dall'Istituto Tecnico industriale con ramo informatico, non avevo completato l'università e avevo passato gli anni della mia vita più di 10 a coltivare la passione dell'informatica facendo tutt'altro lavoro.
 
-Questa premessa è doverosa, solo per farvi comprendere che tutti possono con la buona volontà iniziare un percorso di crescita non solo lavorativa ma personale. La mia ha portato ad effettuare un corso con certificazione nel ramo della malware analisi, permettendomi di muovermi all'interno di "" e fare ciò che decisamente amo.
+Questa premessa è doverosa, solo per farvi comprendere che tutti possono con la buona volontà iniziare un percorso di crescita non solo lavorativa ma personale. La mia ha portato ad effettuare un corso con certificazione nel ramo della malware analisi, permettendomi di muovermi all'interno di "TRACECUNE" e fare ciò che decisamente amo.
 
 Passioni: Tecnologia,elettronica,finanza e crescita personale.
 
