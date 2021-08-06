@@ -8,7 +8,7 @@ aliases = ["glossary"]
 
 Qui verrà un semplice glossario!
 
-{{ range .Site.Data.countries.continent.africa.country }}
+{{ range .Site.Data.list }}
   <li>
     <input class="material-icons" type="checkbox" />
     <label>{{ .name }}</label>
