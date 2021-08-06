@@ -74,7 +74,7 @@ theme = "#1b1c1d"
 
   [params.logo]
   logoMark = ">"
-  logoText = "$ cd /home/"
+  logoText = "$ cd /Prima Pagina/"
   logoHomeLink = "/"
 
   [[params.social]]
