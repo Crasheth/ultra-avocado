@@ -9,4 +9,3 @@ aliases = ["glossary"]
 Qui verrà un semplice glossario!
 
 
-{{ $data := getJSON "https://tools.learningcontainer.com/sample-json-file.json" }}
