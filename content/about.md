@@ -15,7 +15,7 @@ Al pari di "Google" ribattezzata come "Hooli" nella nota serie tv "Silicon Valle
 
 la mia azienda verrà battezzata semplicemente come "TRACECUNE"
 
-{{< image src="https://res.cloudinary.com/dpqacaek0/image/upload/v1628253730/crasheth/a_at8lhb.png" alt="la mia azienda verrà battezzata semplicemente come "TRACECUNE" position="center" style="border-radius: 8px;" >}}
+{{< image src="https://res.cloudinary.com/dpqacaek0/image/upload/v1628253730/crasheth/a_at8lhb.png" alt="hooli" position="center" style="border-radius: 8px;" >}}
 
 Non sapevo molto della sicurezza informatica,come e cosa fosse un SIEM o come si svolgesse una giornata lavorativa in un SOC (tutti termini che poi pian piano vedremo).
 
