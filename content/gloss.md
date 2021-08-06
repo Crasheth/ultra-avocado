@@ -10,7 +10,7 @@ Qui verrà un semplice glossario!
 
 {{ range $.Site.Data.glossary.list }}
     <ul>
-    {{ range .list }}
+    {{ range .Glossary }}
     <li>{{ . }}</li>
     {{ end }}
     </ul>   
