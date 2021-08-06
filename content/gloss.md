@@ -8,6 +8,6 @@ aliases = ["glossary"]
 
 Qui verrà un semplice glossario!
 
-{{ range $.Site.Data.jazz.bass }}
-   {{ partial "artist.html" . }}
+{{ range $.Site.Data.lidy }}
+   {{ partial "glossario.html" . }}
 {{ end }}
