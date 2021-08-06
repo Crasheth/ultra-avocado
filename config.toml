@@ -114,5 +114,5 @@ url = "about/"
 
 [[menu.main]]
 identifier = "posts"
-name = "Posts"
+name = "Articoli"
 url = "posts/"
