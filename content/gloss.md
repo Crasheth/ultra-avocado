@@ -8,4 +8,4 @@ aliases = ["glossary"]
 
 Qui verrà un semplice glossario!
 
-<div>Acronimo {{$.Site.Data.glossary.list.json}}</p></div>
+<div>Acronimo {{$.Site.Data.glossary.list.Acronimo}}</p></div>
