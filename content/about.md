@@ -25,7 +25,10 @@ Provenivo dall'Istituto Tecnico industriale con ramo informatico, non avevo comp
 
 Questa premessa è doverosa, solo per farvi comprendere che tutti possono con la buona volontà iniziare un percorso di crescita non solo lavorativa ma personale. La mia ha portato ad effettuare un corso con certificazione nel ramo della malware analisi, permettendomi di muovermi all'interno di "TRACECUNE" e fare ciò che decisamente amo.
 
-
+In questo luogo, potrai trovare risorse che spero ti siano utili sulla malware analisys. 
+Non lasciarti ingannare dal nome, troverai risorse in italiano, per iniziare il tuo percorso nel mondo dei Malware!
+Con questo non voglio dire che non devi conoscere l'inglese, anzi specialmente in questo settore la fa da padrone, ma forse lo stesso concetto in italiano potrebbe rafforzare la conoscenza di quello in lingua anglosassone.
+Oltre a quelle risorse utili, troverai i miei pensieri, le mie passioni. Lo stai pensando vero? Hai ragione, questo vuole essere un blog vecchio stile, in questa era di Youtuber e di editing video, si ritorna con nostalgia alla scrittura,diretta senza giri di parole o quasi!
 
 
 Passioni: Tecnologia,elettronica,finanza e crescita personale.
