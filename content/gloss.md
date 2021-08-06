@@ -10,5 +10,3 @@ Qui verrà un semplice glossario!
 
 
 {{ $data := getJSON "https://tools.learningcontainer.com/sample-json-file.json" }}
-
-{{ $data := getJSON "https://tools.learningcontainer.com/sample-json-file.json" (dict "Authorization" "Bearer abcd")  }}
