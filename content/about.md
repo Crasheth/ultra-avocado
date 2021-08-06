@@ -25,6 +25,9 @@ Provenivo dall'Istituto Tecnico industriale con ramo informatico, non avevo comp
 
 Questa premessa è doverosa, solo per farvi comprendere che tutti possono con la buona volontà iniziare un percorso di crescita non solo lavorativa ma personale. La mia ha portato ad effettuare un corso con certificazione nel ramo della malware analisi, permettendomi di muovermi all'interno di "TRACECUNE" e fare ciò che decisamente amo.
 
+
+
+
 Passioni: Tecnologia,elettronica,finanza e crescita personale.
 
 Ah dimenticavo, mi chiamo Christian AKA Crasheth..poi ve lo spiego. Sto creando anche un glossario, con i termini che potrebbero non essere consueti, poi ovvio Hooli vi svela tutto!
