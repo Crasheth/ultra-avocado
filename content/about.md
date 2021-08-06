@@ -1,7 +1,8 @@
 +++
 title = "Chi sono?"
 date = "2021-08-06"
-image= "https://res.cloudinary.com/dpqacaek0/image/upload/v1628255522/crasheth/IMG_20210106_143643_gtp7lb.png"
+image= 
+{{< image src="https://res.cloudinary.com/dpqacaek0/image/upload/v1628255522/crasheth/IMG_20210106_143643_gtp7lb.png" alt="Hello Friend" position="center" style="border-radius: 8px;" >}}
 aliases = ["about-us","about-hugo","contact"]
 [ author ]
   name = "Hugo Authors"
